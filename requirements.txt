@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-mistralai
+langchain-experimental
+mistralai
+pandas
+numpy
+python-dotenv
+tabulate
