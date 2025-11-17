@@ -1,5 +1,7 @@
 # Agente para extração de dados de jogos
 
+# Nome: Ryan Henrique Pereira Cardoso
+
 ## Necessário criar um arquivo .env com uma api key do mistral antes de usar o agente.
 ## Necessário também instalar as dependencias no requirements.txt
 
